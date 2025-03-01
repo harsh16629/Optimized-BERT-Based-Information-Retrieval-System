@@ -10,7 +10,7 @@ This is an optimized information retrieval system using hybrid approaches that c
 5. [Usage](#usage) 
 6. [Results](#results)
 7. [Contributing](#contributing)
-8. [License](license)
+8. [License](#license)
 
 
 ## Overview
